@@ -1,3 +1,3 @@
 # README
 
-Hyvin simppeli kouluprojekti Ajaxin käyttöä opetellen. Kouluprojekti
+Hyvin simppeli kouluprojekti Ajaxin käyttöä opetellen.
